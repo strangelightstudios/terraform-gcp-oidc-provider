@@ -2,5 +2,5 @@
 
 
 > [!CAUTION]
-> The content of this repository is publicly accessible; do not add private IP addresses or any other sensitive information.
+> The content of this repository is publicly accessible; do not add secret or sensitive information.
 
